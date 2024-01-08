@@ -1,0 +1,43 @@
+{
+    "items": [
+        {
+            "id": 1,
+            "name": "IoT Engineer",
+            "skillset": "Software, Coding, Teamwork",
+            "education": "Undergraduate Degree",
+            "experience": "6+ years",
+            "salary": "$136,000",
+            "image": "https://www.verytechnology.com/wp-content/uploads/2022/10/iot-engineers.jpeg",
+            "link": "https://www.glassdoor.com/Jobs/Duravant-Jobs-E1265536.htm?filter.countryId=1",
+            "employer_ids": [1],
+            "employer_name": "Duravant",
+            "resource_ids": [1, 2, 3]
+        },
+        {
+            "id": 2,
+            "name": "Maintenance Manager [Food Manufacturing]",
+            "skillset": "Organization, Communication, Maintenance",
+            "education": "High school",
+            "experience": "5+ years",
+            "salary": "~$72,000",
+            "image": "https://media.noria.com/sites/Uploads/2018/6/13/aa35c9d6-c97b-48ce-b36f-891af2ad7a19_Who%20Makes%20a%20Good%20Maintenance%20Manager_extra_large.jpeg",
+            "link": "https://www.glassdoor.com/Jobs/Makowski-s-Real-Sausage-Co-Jobs-E1837602.htm?filter.countryId=1",
+            "employer_ids": [2],
+            "employer_name": "Makowski's Real Sausage",
+            "resource_ids": [1, 2]
+        },
+        {
+            "id": 3,
+            "name": "Senior Maintenance Technician",
+            "skillset": "Mechanics, Technical, Communication",
+            "education": "None",
+            "experience": "5+ years",
+            "salary": "~$66,000",
+            "image": "https://www.getreskilled.com/wp-content/uploads/2017/02/maintenance-technician-getreskilled.com_.jpg",
+            "link": "https://www.glassdoor.com/Jobs/Vanee-Foods-Jobs-E919520.htm?filter.countryId=1",
+            "employer_ids": [3],
+            "employer_name": "Vanee Foods",
+            "resource_ids": [1, 2]
+        }
+    ]
+}

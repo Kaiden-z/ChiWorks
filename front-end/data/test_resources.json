@@ -1,0 +1,40 @@
+{
+    "items": [
+        {
+            "id": 2,
+            "name": "Benefits Counseling Program",
+            "location": "MOPD",
+            "skillsets": "Communication, Preparation, Job Preparation",
+            "modality": "In-person",
+            "cost": "Free for disabled",
+            "image": "https://media.licdn.com/dms/image/D560BAQE1cyh6U6VkSA/company-logo_200_200/0/1666898441260?e=2147483647&v=beta&t=6Ue0Y4yA7LSQiIB2ahUmb2KZSrZq2YBeXet1b_GLXF0",
+            "employer_ids": [1, 2, 3],
+            "job_ids": [1, 2, 3],
+            "link": "https://www.chicago.gov/city/en/depts/mopd/provdrs/CareerCenter/svcs/Job_Seekers.html"
+        },
+        {
+            "id": 1,
+            "name": "Effective Communication: Writing, Design, and Presentation Specialization",
+            "location": "Coursera",
+            "skillsets": "Communication, Teamwork, Writing",
+            "modality": "Online",
+            "cost": "$20",
+            "image": "https://www.atlassian.com/blog/wp-content/uploads/2018/11/in-their-own-words-pt-1_featured@3x.png",
+            "employer_ids": [1, 2, 3],
+            "job_ids": [1, 2, 3], 
+            "link": "https://www.coursera.org/specializations/effective-business-communication"
+        },
+        {
+            "id": 3,
+            "name": "The Complete Python Bootcamp",
+            "location": "Udemy",
+            "skillsets": "Coding, Design",
+            "modality": "Online",
+            "cost": "$20",
+            "image": "data:image/png;base64,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",
+            "employer_ids": [1],
+            "job_ids": [1],
+            "link": "https://www.udemy.com/course/complete-python-bootcamp/?_hsenc=p2ANqtz-_lzw8unTCQ5e8ky27ocxLawOiES-yu1XHHTTxJ4958iAY6gliWtdFtqjk7IzY5VIN03Hra&hubs_post-cta=blognavcard-website&utm_source=adwords&utm_medium=udemyads&utm_campaign=DSA_Catchall_la.EN_cc.US&utm_content=deal4584&utm_term=_._ag_95911180068_._ad_532194018659_._kw__._de_c_._dm__._pl__._ti_dsa-93451758763_._li_9028280_._pd__._&matchtype=&gclid=Cj0KCQjwpc-oBhCGARIsAH6ote_Zzkjb0k_CMJ90Nj8iZ0bROEfI-M_ipjdgCggR5VOYGSstwvMFih8aAiMjEALw_wcB"
+        }
+    ]
+}

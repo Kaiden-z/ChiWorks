@@ -1,0 +1,20 @@
+FROM python:3.8
+
+WORKDIR /app
+
+COPY requirements.txt /app
+
+RUN pip install awscli
+
+RUN pip install -r requirements.txt
+
+# AWS CLI configuration
+RUN aws configure set aws_access_key_id ....
+RUN aws configure set aws_secret_access_key ....
+# RUN aws configure set default.region YOUR_REGION
+
+FROM node:alpine
+
+RUN npm install -g @aws-amplify/cli
+
+COPY . /app
